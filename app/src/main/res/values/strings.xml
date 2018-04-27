@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Simulator</string>
+    <string name="get_stars">READ</string>
+    <string name="result">RESULT</string>
+</resources>

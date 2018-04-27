@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="dices">
+        <item>@id/dice_0</item>
+        <item>@id/dice_1</item>
+        <item>@id/dice_2</item>
+        <item>@id/dice_3</item>
+        <item>@id/dice_4</item>
+    </integer-array>
+
+    <integer-array name="res">
+        <item>@id/dice_0_res</item>
+        <item>@id/dice_1_res</item>
+        <item>@id/dice_2_res</item>
+        <item>@id/dice_3_res</item>
+        <item>@id/dice_4_res</item>
+    </integer-array>
+
+    <integer-array name="numbers">
+        <item>@drawable/result_1</item>
+        <item>@drawable/result_2</item>
+        <item>@drawable/result_3</item>
+        <item>@drawable/result_4</item>
+        <item>@drawable/result_5</item>
+        <item>@drawable/result_6</item>
+    </integer-array>
+</resources>
